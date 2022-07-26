@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @GuyRhysDavies
+👋 Hi, I’m @GuyRhysDavies
+
 - 👀 I’m interested in anything that helps with inference. 
 - 🌱 I’m currently learning something new everyday (I hope).
 
